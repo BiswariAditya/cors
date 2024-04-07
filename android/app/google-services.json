@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134643537949",
+    "project_id": "cors-police",
+    "storage_bucket": "cors-police.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134643537949:android:d89ca52bd53da67fce8ef4",
+        "android_client_info": {
+          "package_name": "com.example.police_fir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqeCltU2MEK6X3w8w51G-_XOlbIYgbwhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
